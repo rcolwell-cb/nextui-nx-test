@@ -95,196 +95,160 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".coderabbit.yaml",
-        "hash": "12710872707500100330"
-      },
-      {
-        "file": ".changeset/grumpy-scissors-jam.md",
-        "hash": "514861628903219689"
-      },
-      {
-        "file": ".github/ISSUE_TEMPLATE/feature_request.yml",
-        "hash": "3813431749179344495"
-      },
-      {
-        "file": "scripts/setup-test.ts",
-        "hash": "2005355183175474972"
-      },
-      {
-        "file": ".changeset/README.md",
-        "hash": "4888845876018830777"
-      },
-      {
-        "file": "plop/component/src/use-{{componentName}}.ts.hbs",
-        "hash": "9280695416769924584"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "1586168760453971705"
-      },
-      {
-        "file": ".prettierrc.json",
-        "hash": "6770648010997357389"
-      },
-      {
-        "file": "plop/component/README.md.hbs",
-        "hash": "16738993973622120997"
-      },
-      {
-        "file": ".github/common-actions/install/action.yml",
-        "hash": "7246638603994015589"
-      },
-      {
-        "file": "plop/package/src/index.ts.hbs",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": ".env.example",
-        "hash": "13578136543719213971"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "16788581157204097735"
-      },
-      {
-        "file": ".changeset/tough-peaches-live.md",
-        "hash": "9019200674781604806"
-      },
-      {
-        "file": "plop/component/tsup.config.ts.hbs",
-        "hash": "10778904365138757431"
-      },
-      {
-        "file": "package.json",
-        "hash": "677378411668911119"
-      },
-      {
-        "file": "plop/component/package.json.hbs",
-        "hash": "5393963980232657665"
-      },
-      {
-        "file": "nx.json",
-        "hash": "4223627051691918432"
-      },
-      {
-        "file": "CONTRIBUTING.md",
-        "hash": "6936134399435178692"
-      },
-      {
-        "file": ".github/FUNDING.yml",
-        "hash": "11714596666856252422"
-      },
-      {
-        "file": "LICENSE",
-        "hash": "1107167536607195802"
-      },
-      {
-        "file": "plop/component/stories/{{componentName}}.stories.tsx.hbs",
-        "hash": "6337269962835394425"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "8024671165539273205"
-      },
-      {
-        "file": ".changeset/thirty-timers-press.md",
-        "hash": "13215010471745791358"
-      },
-      {
-        "file": ".changeset/famous-mice-approve.md",
-        "hash": "15431610302279869514"
-      },
-      {
-        "file": "plopfile.js",
-        "hash": "18223224085913766655"
-      },
-      {
-        "file": ".changeset/lazy-comics-crash.md",
-        "hash": "6103056134185456834"
-      },
-      {
-        "file": "pnpm-workspace.yaml",
-        "hash": "8205299757988272583"
-      },
-      {
-        "file": "jest.config.js",
-        "hash": "9042614219075554669"
-      },
-      {
-        "file": "README.md",
-        "hash": "16360025481429848081"
-      },
-      {
-        "file": ".github/ISSUE_TEMPLATE/bug_report.yml",
-        "hash": "13395516759128740581"
-      },
-      {
-        "file": "plop/component/tsconfig.json.hbs",
-        "hash": "16604589047844053601"
-      },
-      {
-        "file": "plop/component/src/{{componentName}}.tsx.hbs",
-        "hash": "3096631189136856217"
-      },
-      {
-        "file": ".github/workflows/sync-canary-to-main.yaml",
-        "hash": "1761889951263837613"
-      },
-      {
-        "file": ".changeset/config.json",
-        "hash": "15535002765969694148"
-      },
-      {
-        "file": "plop/package/package.json.hbs",
-        "hash": "4593599178406039083"
-      },
-      {
         "file": ".github/pull_request_template.md",
         "hash": "6426494152326549462"
       },
       {
-        "file": ".github/CODEOWNERS",
-        "hash": "10280706826903261118"
-      },
-      {
-        "file": "plop/hook/__tests__/{{hookName}}.test.tsx.hbs",
-        "hash": "10231505885810500925"
-      },
-      {
-        "file": ".github/workflows/release.yaml",
-        "hash": "7531139674011839744"
-      },
-      {
-        "file": ".nvmrc",
-        "hash": "12789428884620569720"
-      },
-      {
-        "file": "turbo.json",
-        "hash": "4866194957177265898"
-      },
-      {
-        "file": "plop/hook/tsconfig.json.hbs",
-        "hash": "14204306632229517047"
-      },
-      {
-        "file": ".husky/pre-commit",
-        "hash": "18368003377075053010"
-      },
-      {
-        "file": "vercel.json",
-        "hash": "14343533958959452245"
+        "file": "pnpm-lock-old.yaml",
+        "hash": "13619819214380851528"
       },
       {
         "file": "clean-package.config.json",
         "hash": "351755712108956611"
       },
       {
-        "file": "plop/package/README.md.hbs",
-        "hash": "10731879983420105600"
+        "file": ".husky/commit-msg",
+        "hash": "12948134394237671780"
+      },
+      {
+        "file": ".github/common-actions/install/action.yml",
+        "hash": "7246638603994015589"
+      },
+      {
+        "file": ".npmrc",
+        "hash": "11671708108581770242"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/config.yml",
+        "hash": "2188833067981599780"
+      },
+      {
+        "file": "vercel.json",
+        "hash": "14343533958959452245"
+      },
+      {
+        "file": "plop/package/package.json.hbs",
+        "hash": "4593599178406039083"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/feature_request.yml",
+        "hash": "3813431749179344495"
+      },
+      {
+        "file": ".prettierrc.json",
+        "hash": "6770648010997357389"
+      },
+      {
+        "file": ".changeset/config.json",
+        "hash": "15535002765969694148"
+      },
+      {
+        "file": ".changeset/tough-peaches-live.md",
+        "hash": "9019200674781604806"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "15326268031356389093"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "1586168760453971705"
+      },
+      {
+        "file": ".changeset/giant-maps-bow.md",
+        "hash": "15240070405069231614"
+      },
+      {
+        "file": "scripts/fix-rap.ts",
+        "hash": "8722698040505045372"
+      },
+      {
+        "file": "README.md",
+        "hash": "16360025481429848081"
+      },
+      {
+        "file": "jest.config.js",
+        "hash": "9042614219075554669"
+      },
+      {
+        "file": "plop/component/package.json.hbs",
+        "hash": "5393963980232657665"
+      },
+      {
+        "file": ".changeset/thirty-timers-press.md",
+        "hash": "13215010471745791358"
+      },
+      {
+        "file": ".github/workflows/QA.yaml",
+        "hash": "7579646898311471116"
+      },
+      {
+        "file": ".github/workflows/release.yaml",
+        "hash": "7531139674011839744"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/bug_report.yml",
+        "hash": "13395516759128740581"
+      },
+      {
+        "file": "plop/hook/__tests__/{{hookName}}.test.tsx.hbs",
+        "hash": "10231505885810500925"
       },
       {
         "file": "tsconfig.json",
         "hash": "2502507601097474638"
+      },
+      {
+        "file": "plop/package/README.md.hbs",
+        "hash": "10731879983420105600"
+      },
+      {
+        "file": "turbo.json",
+        "hash": "4866194957177265898"
+      },
+      {
+        "file": "plop/component/src/index.ts.hbs",
+        "hash": "9670414388857535971"
+      },
+      {
+        "file": ".commitlintrc.cjs",
+        "hash": "17713929820961950581"
+      },
+      {
+        "file": ".changeset/README.md",
+        "hash": "4888845876018830777"
+      },
+      {
+        "file": "plop/component/tsconfig.json.hbs",
+        "hash": "16604589047844053601"
+      },
+      {
+        "file": ".nvmrc",
+        "hash": "12789428884620569720"
+      },
+      {
+        "file": "scripts/setup-test.ts",
+        "hash": "2005355183175474972"
+      },
+      {
+        "file": "plop/component/__tests__/{{componentName}}.test.tsx.hbs",
+        "hash": "12461463381475861770"
+      },
+      {
+        "file": "plop/component/src/use-{{componentName}}.ts.hbs",
+        "hash": "9280695416769924584"
+      },
+      {
+        "file": ".github/FUNDING.yml",
+        "hash": "11714596666856252422"
+      },
+      {
+        "file": "plop/component/stories/{{componentName}}.stories.tsx.hbs",
+        "hash": "6337269962835394425"
+      },
+      {
+        "file": "plopfile.js",
+        "hash": "18223224085913766655"
       },
       {
         "file": "plop/hook/package.json.hbs",
@@ -295,64 +259,60 @@
         "hash": "303835731633287585"
       },
       {
-        "file": ".github/workflows/QA.yaml",
-        "hash": "7579646898311471116"
+        "file": ".changeset/famous-mice-approve.md",
+        "hash": "15431610302279869514"
       },
       {
-        "file": ".husky/commit-msg",
-        "hash": "12948134394237671780"
+        "file": "LICENSE",
+        "hash": "1107167536607195802"
       },
       {
         "file": "plop/hook/README.md.hbs",
         "hash": "12129655822154336341"
       },
       {
+        "file": "plop/component/src/{{componentName}}.tsx.hbs",
+        "hash": "3096631189136856217"
+      },
+      {
         "file": "scripts/check-rap-updates.ts",
         "hash": "10456278818904695029"
       },
       {
-        "file": "pnpm-lock-old.yaml",
-        "hash": "13619819214380851528"
+        "file": ".gitignore",
+        "hash": "8024671165539273205"
       },
       {
-        "file": "plop/component/src/index.ts.hbs",
-        "hash": "9670414388857535971"
-      },
-      {
-        "file": "plop/component/__tests__/{{componentName}}.test.tsx.hbs",
-        "hash": "12461463381475861770"
+        "file": "plop/component/README.md.hbs",
+        "hash": "16738993973622120997"
       },
       {
         "file": "plop/package/tsconfig.json.hbs",
         "hash": "14204306632229517047"
       },
       {
-        "file": "CODE_OF_CONDUCT.md",
-        "hash": "9448704574590202461"
-      },
-      {
-        "file": ".vscode/settings.json",
-        "hash": "15326268031356389093"
-      },
-      {
-        "file": ".commitlintrc.cjs",
-        "hash": "17713929820961950581"
-      },
-      {
         "file": ".editorconfig",
         "hash": "15635351567164437990"
       },
       {
-        "file": "scripts/fix-rap.ts",
-        "hash": "8722698040505045372"
+        "file": "pnpm-workspace.yaml",
+        "hash": "8205299757988272583"
       },
       {
-        "file": ".changeset/giant-maps-bow.md",
-        "hash": "15240070405069231614"
+        "file": "package.json",
+        "hash": "677378411668911119"
       },
       {
-        "file": ".npmrc",
-        "hash": "11671708108581770242"
+        "file": ".env.example",
+        "hash": "13578136543719213971"
+      },
+      {
+        "file": ".github/CODEOWNERS",
+        "hash": "10280706826903261118"
+      },
+      {
+        "file": ".changeset/grumpy-scissors-jam.md",
+        "hash": "514861628903219689"
       },
       {
         "file": "plop/hook/src/index.ts.hbs",
@@ -363,8 +323,48 @@
         "hash": "13477142385435076903"
       },
       {
-        "file": ".github/ISSUE_TEMPLATE/config.yml",
-        "hash": "2188833067981599780"
+        "file": "CONTRIBUTING.md",
+        "hash": "6936134399435178692"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "16788581157204097735"
+      },
+      {
+        "file": "CODE_OF_CONDUCT.md",
+        "hash": "9448704574590202461"
+      },
+      {
+        "file": ".github/workflows/sync-canary-to-main.yaml",
+        "hash": "1761889951263837613"
+      },
+      {
+        "file": "nx.json",
+        "hash": "6636577903012864804"
+      },
+      {
+        "file": ".changeset/lazy-comics-crash.md",
+        "hash": "6103056134185456834"
+      },
+      {
+        "file": "plop/component/tsup.config.ts.hbs",
+        "hash": "10778904365138757431"
+      },
+      {
+        "file": ".coderabbit.yaml",
+        "hash": "12710872707500100330"
+      },
+      {
+        "file": "plop/package/src/index.ts.hbs",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".husky/pre-commit",
+        "hash": "18368003377075053010"
+      },
+      {
+        "file": "plop/hook/tsconfig.json.hbs",
+        "hash": "14204306632229517047"
       }
     ],
     "projectFileMap": {
@@ -6577,7 +6577,7 @@
         },
         {
           "file": "packages/components/button/src/button.tsx",
-          "hash": "18111930162201208558",
+          "hash": "12993895661957826467",
           "deps": [
             "@nextui-org/spinner",
             "@nextui-org/ripple",

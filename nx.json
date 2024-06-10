@@ -13,7 +13,7 @@
     ],
     "releaseTagPattern": "{projectName}@{version}",
     "changelog": {
-      "projectChangelogs": true
+      "projectChangelogs": false
     }
   }
 }

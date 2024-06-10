@@ -22,6 +22,8 @@ const Button = forwardRef<"button", ButtonProps>((props, ref) => {
     getButtonProps,
     getRippleProps,
     isIconOnly,
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    addedPropTest,
   } = useButton({...props, ref});
 
   return (
