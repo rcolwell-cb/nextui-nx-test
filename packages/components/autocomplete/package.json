@@ -49,7 +49,7 @@
     "@nextui-org/shared-utils": "2.2.0",
     "@nextui-org/spinner": "2.0.31",
     "@nextui-org/input": "2.2.1",
-    "@nextui-org/button": "^2.0.36",
+    "@nextui-org/button": "^2.2.1",
     "@nextui-org/use-aria-button": "2.2.0",
     "@nextui-org/shared-icons": "2.2.0",
     "@nextui-org/use-safe-layout-effect": "2.2.0",

@@ -55,7 +55,7 @@
   "devDependencies": {
     "@nextui-org/theme": "2.4.0",
     "@nextui-org/system": "2.3.0",
-    "@nextui-org/button": "^2.0.36",
+    "@nextui-org/button": "^2.2.1",
     "@nextui-org/avatar": "2.0.32",
     "@nextui-org/user": "2.0.36",
     "@nextui-org/image": "2.0.31",

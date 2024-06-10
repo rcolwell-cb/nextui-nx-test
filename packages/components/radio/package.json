@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/radio",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Radios allow users to select a single option from a list of mutually exclusive options.",
   "keywords": [
     "radio"
@@ -54,7 +54,7 @@
   "devDependencies": {
     "@nextui-org/theme": "2.4.0",
     "@nextui-org/system": "2.3.0",
-    "@nextui-org/button": "^2.0.36",
+    "@nextui-org/button": "^2.2.1",
     "clean-package": "2.2.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

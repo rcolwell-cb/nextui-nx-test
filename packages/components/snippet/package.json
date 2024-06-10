@@ -41,7 +41,7 @@
     "@nextui-org/system": ">=2.0.0"
   },
   "dependencies": {
-    "@nextui-org/button": "^2.0.36",
+    "@nextui-org/button": "^2.2.1",
     "@nextui-org/shared-utils": "2.2.0",
     "@nextui-org/react-utils": "2.2.0",
     "@nextui-org/shared-icons": "2.2.0",

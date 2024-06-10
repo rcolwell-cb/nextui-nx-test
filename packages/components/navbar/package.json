@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/navbar",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A responsive navigation header positioned on top side of your page that includes support for branding, links, navigation, collapse and more.",
   "keywords": [
     "navbar"
@@ -58,7 +58,7 @@
     "@nextui-org/theme": "2.4.0",
     "@nextui-org/system": "2.3.0",
     "@nextui-org/avatar": "2.0.32",
-    "@nextui-org/button": "^2.0.36",
+    "@nextui-org/button": "^2.2.1",
     "@nextui-org/dropdown": "2.1.28",
     "@nextui-org/input": "2.2.1",
     "@nextui-org/link": "2.0.33",
