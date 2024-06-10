@@ -55,7 +55,7 @@
     "@react-types/tooltip": "3.4.7"
   },
   "devDependencies": {
-    "@nextui-org/button": "2.0.36",
+    "@nextui-org/button": "^2.0.36",
     "@nextui-org/system": "2.3.0",
     "@nextui-org/theme": "2.4.0",
     "clean-package": "2.2.0",

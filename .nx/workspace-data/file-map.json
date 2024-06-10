@@ -95,276 +95,276 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".github/pull_request_template.md",
-        "hash": "6426494152326549462"
-      },
-      {
-        "file": "pnpm-lock-old.yaml",
-        "hash": "13619819214380851528"
-      },
-      {
-        "file": "clean-package.config.json",
-        "hash": "351755712108956611"
-      },
-      {
-        "file": ".husky/commit-msg",
-        "hash": "12948134394237671780"
-      },
-      {
-        "file": ".github/common-actions/install/action.yml",
-        "hash": "7246638603994015589"
-      },
-      {
-        "file": ".npmrc",
-        "hash": "11671708108581770242"
-      },
-      {
-        "file": ".github/ISSUE_TEMPLATE/config.yml",
-        "hash": "2188833067981599780"
-      },
-      {
-        "file": "vercel.json",
-        "hash": "14343533958959452245"
-      },
-      {
-        "file": "plop/package/package.json.hbs",
-        "hash": "4593599178406039083"
-      },
-      {
-        "file": ".github/ISSUE_TEMPLATE/feature_request.yml",
-        "hash": "3813431749179344495"
-      },
-      {
-        "file": ".prettierrc.json",
-        "hash": "6770648010997357389"
-      },
-      {
-        "file": ".changeset/config.json",
-        "hash": "15535002765969694148"
-      },
-      {
-        "file": ".changeset/tough-peaches-live.md",
-        "hash": "9019200674781604806"
-      },
-      {
-        "file": ".vscode/settings.json",
-        "hash": "15326268031356389093"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "1586168760453971705"
-      },
-      {
-        "file": ".changeset/giant-maps-bow.md",
-        "hash": "15240070405069231614"
-      },
-      {
-        "file": "scripts/fix-rap.ts",
-        "hash": "8722698040505045372"
-      },
-      {
-        "file": "README.md",
-        "hash": "16360025481429848081"
-      },
-      {
-        "file": "jest.config.js",
-        "hash": "9042614219075554669"
-      },
-      {
-        "file": "plop/component/package.json.hbs",
-        "hash": "5393963980232657665"
-      },
-      {
-        "file": ".changeset/thirty-timers-press.md",
-        "hash": "13215010471745791358"
-      },
-      {
-        "file": ".github/workflows/QA.yaml",
-        "hash": "7579646898311471116"
-      },
-      {
-        "file": ".github/workflows/release.yaml",
-        "hash": "7531139674011839744"
-      },
-      {
-        "file": ".github/ISSUE_TEMPLATE/bug_report.yml",
-        "hash": "13395516759128740581"
-      },
-      {
-        "file": "plop/hook/__tests__/{{hookName}}.test.tsx.hbs",
-        "hash": "10231505885810500925"
-      },
-      {
-        "file": "tsconfig.json",
-        "hash": "2502507601097474638"
-      },
-      {
-        "file": "plop/package/README.md.hbs",
-        "hash": "10731879983420105600"
-      },
-      {
-        "file": "turbo.json",
-        "hash": "4866194957177265898"
-      },
-      {
-        "file": "plop/component/src/index.ts.hbs",
-        "hash": "9670414388857535971"
-      },
-      {
-        "file": ".commitlintrc.cjs",
-        "hash": "17713929820961950581"
-      },
-      {
-        "file": ".changeset/README.md",
-        "hash": "4888845876018830777"
-      },
-      {
-        "file": "plop/component/tsconfig.json.hbs",
-        "hash": "16604589047844053601"
-      },
-      {
-        "file": ".nvmrc",
-        "hash": "12789428884620569720"
-      },
-      {
-        "file": "scripts/setup-test.ts",
-        "hash": "2005355183175474972"
-      },
-      {
-        "file": "plop/component/__tests__/{{componentName}}.test.tsx.hbs",
-        "hash": "12461463381475861770"
-      },
-      {
-        "file": "plop/component/src/use-{{componentName}}.ts.hbs",
-        "hash": "9280695416769924584"
-      },
-      {
-        "file": ".github/FUNDING.yml",
-        "hash": "11714596666856252422"
-      },
-      {
-        "file": "plop/component/stories/{{componentName}}.stories.tsx.hbs",
-        "hash": "6337269962835394425"
+        "file": "plop/package/tsconfig.json.hbs",
+        "hash": "14204306632229517047"
       },
       {
         "file": "plopfile.js",
         "hash": "18223224085913766655"
       },
       {
-        "file": "plop/hook/package.json.hbs",
-        "hash": "2745008721657466765"
-      },
-      {
-        "file": ".eslintignore",
-        "hash": "303835731633287585"
-      },
-      {
-        "file": ".changeset/famous-mice-approve.md",
-        "hash": "15431610302279869514"
-      },
-      {
-        "file": "LICENSE",
-        "hash": "1107167536607195802"
-      },
-      {
-        "file": "plop/hook/README.md.hbs",
-        "hash": "12129655822154336341"
-      },
-      {
-        "file": "plop/component/src/{{componentName}}.tsx.hbs",
-        "hash": "3096631189136856217"
-      },
-      {
-        "file": "scripts/check-rap-updates.ts",
-        "hash": "10456278818904695029"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "8024671165539273205"
-      },
-      {
-        "file": "plop/component/README.md.hbs",
-        "hash": "16738993973622120997"
-      },
-      {
-        "file": "plop/package/tsconfig.json.hbs",
-        "hash": "14204306632229517047"
-      },
-      {
-        "file": ".editorconfig",
-        "hash": "15635351567164437990"
+        "file": ".env.example",
+        "hash": "13578136543719213971"
       },
       {
         "file": "pnpm-workspace.yaml",
         "hash": "8205299757988272583"
       },
       {
-        "file": "package.json",
-        "hash": "677378411668911119"
-      },
-      {
-        "file": ".env.example",
-        "hash": "13578136543719213971"
-      },
-      {
-        "file": ".github/CODEOWNERS",
-        "hash": "10280706826903261118"
-      },
-      {
-        "file": ".changeset/grumpy-scissors-jam.md",
-        "hash": "514861628903219689"
-      },
-      {
-        "file": "plop/hook/src/index.ts.hbs",
-        "hash": "9465790789750634988"
-      },
-      {
-        "file": ".lintstagedrc.cjs",
-        "hash": "13477142385435076903"
-      },
-      {
-        "file": "CONTRIBUTING.md",
-        "hash": "6936134399435178692"
+        "file": "vercel.json",
+        "hash": "14343533958959452245"
       },
       {
         "file": ".eslintrc.json",
         "hash": "16788581157204097735"
       },
       {
-        "file": "CODE_OF_CONDUCT.md",
-        "hash": "9448704574590202461"
+        "file": "pnpm-lock-old.yaml",
+        "hash": "13619819214380851528"
+      },
+      {
+        "file": "plop/component/src/index.ts.hbs",
+        "hash": "9670414388857535971"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "15326268031356389093"
       },
       {
         "file": ".github/workflows/sync-canary-to-main.yaml",
         "hash": "1761889951263837613"
       },
       {
-        "file": "nx.json",
-        "hash": "6636577903012864804"
+        "file": "plop/component/tsconfig.json.hbs",
+        "hash": "16604589047844053601"
       },
       {
-        "file": ".changeset/lazy-comics-crash.md",
-        "hash": "6103056134185456834"
+        "file": "plop/hook/__tests__/{{hookName}}.test.tsx.hbs",
+        "hash": "10231505885810500925"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "15635351567164437990"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/feature_request.yml",
+        "hash": "3813431749179344495"
+      },
+      {
+        "file": ".husky/commit-msg",
+        "hash": "12948134394237671780"
       },
       {
         "file": "plop/component/tsup.config.ts.hbs",
         "hash": "10778904365138757431"
       },
       {
-        "file": ".coderabbit.yaml",
-        "hash": "12710872707500100330"
+        "file": ".github/workflows/release.yaml",
+        "hash": "7531139674011839744"
+      },
+      {
+        "file": ".changeset/giant-maps-bow.md",
+        "hash": "15240070405069231614"
+      },
+      {
+        "file": ".nvmrc",
+        "hash": "12789428884620569720"
+      },
+      {
+        "file": "plop/hook/README.md.hbs",
+        "hash": "12129655822154336341"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/config.yml",
+        "hash": "2188833067981599780"
+      },
+      {
+        "file": ".changeset/lazy-comics-crash.md",
+        "hash": "6103056134185456834"
       },
       {
         "file": "plop/package/src/index.ts.hbs",
         "hash": "3244421341483603138"
       },
       {
-        "file": ".husky/pre-commit",
-        "hash": "18368003377075053010"
+        "file": "scripts/check-rap-updates.ts",
+        "hash": "10456278818904695029"
+      },
+      {
+        "file": ".lintstagedrc.cjs",
+        "hash": "13477142385435076903"
+      },
+      {
+        "file": ".changeset/famous-mice-approve.md",
+        "hash": "15431610302279869514"
+      },
+      {
+        "file": "plop/component/package.json.hbs",
+        "hash": "5393963980232657665"
+      },
+      {
+        "file": "plop/hook/package.json.hbs",
+        "hash": "2745008721657466765"
+      },
+      {
+        "file": ".changeset/config.json",
+        "hash": "15535002765969694148"
+      },
+      {
+        "file": "jest.config.js",
+        "hash": "9042614219075554669"
+      },
+      {
+        "file": ".commitlintrc.cjs",
+        "hash": "17713929820961950581"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "303835731633287585"
+      },
+      {
+        "file": "scripts/fix-rap.ts",
+        "hash": "8722698040505045372"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "8024671165539273205"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "1107167536607195802"
+      },
+      {
+        "file": ".github/pull_request_template.md",
+        "hash": "6426494152326549462"
+      },
+      {
+        "file": "nx.json",
+        "hash": "6636577903012864804"
+      },
+      {
+        "file": "plop/component/README.md.hbs",
+        "hash": "16738993973622120997"
+      },
+      {
+        "file": "plop/component/stories/{{componentName}}.stories.tsx.hbs",
+        "hash": "6337269962835394425"
+      },
+      {
+        "file": ".github/workflows/QA.yaml",
+        "hash": "7579646898311471116"
+      },
+      {
+        "file": "plop/package/README.md.hbs",
+        "hash": "10731879983420105600"
+      },
+      {
+        "file": ".github/CODEOWNERS",
+        "hash": "10280706826903261118"
+      },
+      {
+        "file": "plop/package/package.json.hbs",
+        "hash": "4593599178406039083"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "2502507601097474638"
+      },
+      {
+        "file": "plop/hook/src/index.ts.hbs",
+        "hash": "9465790789750634988"
+      },
+      {
+        "file": ".changeset/grumpy-scissors-jam.md",
+        "hash": "514861628903219689"
+      },
+      {
+        "file": "plop/component/src/use-{{componentName}}.ts.hbs",
+        "hash": "9280695416769924584"
+      },
+      {
+        "file": "plop/component/__tests__/{{componentName}}.test.tsx.hbs",
+        "hash": "12461463381475861770"
+      },
+      {
+        "file": "CONTRIBUTING.md",
+        "hash": "6936134399435178692"
       },
       {
         "file": "plop/hook/tsconfig.json.hbs",
         "hash": "14204306632229517047"
+      },
+      {
+        "file": ".coderabbit.yaml",
+        "hash": "12710872707500100330"
+      },
+      {
+        "file": ".github/FUNDING.yml",
+        "hash": "11714596666856252422"
+      },
+      {
+        "file": ".prettierrc.json",
+        "hash": "6770648010997357389"
+      },
+      {
+        "file": ".npmrc",
+        "hash": "11671708108581770242"
+      },
+      {
+        "file": "CODE_OF_CONDUCT.md",
+        "hash": "9448704574590202461"
+      },
+      {
+        "file": ".changeset/thirty-timers-press.md",
+        "hash": "13215010471745791358"
+      },
+      {
+        "file": "README.md",
+        "hash": "16360025481429848081"
+      },
+      {
+        "file": "clean-package.config.json",
+        "hash": "351755712108956611"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/bug_report.yml",
+        "hash": "13395516759128740581"
+      },
+      {
+        "file": "scripts/setup-test.ts",
+        "hash": "2005355183175474972"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "1586168760453971705"
+      },
+      {
+        "file": ".husky/pre-commit",
+        "hash": "18368003377075053010"
+      },
+      {
+        "file": "plop/component/src/{{componentName}}.tsx.hbs",
+        "hash": "3096631189136856217"
+      },
+      {
+        "file": ".changeset/tough-peaches-live.md",
+        "hash": "9019200674781604806"
+      },
+      {
+        "file": "package.json",
+        "hash": "677378411668911119"
+      },
+      {
+        "file": ".changeset/README.md",
+        "hash": "4888845876018830777"
+      },
+      {
+        "file": "turbo.json",
+        "hash": "4866194957177265898"
+      },
+      {
+        "file": ".github/common-actions/install/action.yml",
+        "hash": "7246638603994015589"
       }
     ],
     "projectFileMap": {
@@ -388,7 +388,7 @@
         },
         {
           "file": "packages/components/card/package.json",
-          "hash": "4261369976795618612",
+          "hash": "15304323466490982930",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -1114,7 +1114,7 @@
         },
         {
           "file": "packages/components/breadcrumbs/package.json",
-          "hash": "10795487037063729638",
+          "hash": "12301619363541023848",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -1368,7 +1368,7 @@
         },
         {
           "file": "packages/components/navbar/package.json",
-          "hash": "5614119322384754546",
+          "hash": "10567676048046379927",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -6673,7 +6673,7 @@
         },
         {
           "file": "packages/components/date-picker/package.json",
-          "hash": "11043516263288896702",
+          "hash": "1289389984165603339",
           "deps": [
             "@nextui-org/system",
             "@nextui-org/theme",
@@ -7590,7 +7590,7 @@
         },
         {
           "file": "packages/components/snippet/package.json",
-          "hash": "16653929265781334062",
+          "hash": "5414775659840807743",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -7676,7 +7676,7 @@
         },
         {
           "file": "packages/components/select/package.json",
-          "hash": "3408601383895863525",
+          "hash": "13521844240527092949",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -8309,7 +8309,7 @@
         },
         {
           "file": "packages/components/calendar/package.json",
-          "hash": "2058752884183078977",
+          "hash": "11789702044993341727",
           "deps": [
             "@nextui-org/system",
             "@nextui-org/theme",
@@ -8981,7 +8981,7 @@
         },
         {
           "file": "packages/components/modal/package.json",
-          "hash": "3923236495741980878",
+          "hash": "18183501547540545899",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -10023,7 +10023,7 @@
         },
         {
           "file": "packages/components/dropdown/package.json",
-          "hash": "7688786849393933744",
+          "hash": "16115409358681406220",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -10743,7 +10743,7 @@
         },
         {
           "file": "packages/components/radio/package.json",
-          "hash": "3303773851184174757",
+          "hash": "16225800476786268016",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -11054,7 +11054,7 @@
         },
         {
           "file": "packages/components/popover/package.json",
-          "hash": "4661039282494743501",
+          "hash": "4726107546631621306",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
@@ -11448,7 +11448,7 @@
         },
         {
           "file": "packages/components/skeleton/package.json",
-          "hash": "11025113802574333231",
+          "hash": "6594077583953252886",
           "deps": [
             "@nextui-org/theme",
             "@nextui-org/system",
