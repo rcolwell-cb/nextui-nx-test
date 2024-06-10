@@ -1,3 +1,21 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🩹 Fixes
+
+- **core:** export * from not supported on client components
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/use-measure to 2.2.0
+
+
+### ❤️  Thank You
+
+- Junior Garcia
+
 # @nextui-org/framer-utils
 
 ## 2.0.20

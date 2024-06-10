@@ -1,3 +1,48 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- switch default validationBehavior to aria and allow switching via props
+
+- **date-picker:** add missing ref to input wrapper
+
+
+### 🩹 Fixes
+
+- missing aria labels in date range picker
+
+- popover-based focus behaviour
+
+- error peerDep in pkg
+
+- **date-picker:** invalid and disabled props removed
+
+- **date-picker:** filter out non-DOM props to prevent console errors
+
+- **date-picker:** keep date picker style consistent for different variants
+
+- **date-picker:** test
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/test-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Junior Garcia
+- Ryo Matsukawa
+- winches
+- աӄա
+
 # @nextui-org/date-picker
 
 ## 2.1.1

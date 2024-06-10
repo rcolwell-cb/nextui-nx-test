@@ -1,3 +1,38 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- add peer dependencies
+
+- plop template error
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **scroll-shadow:** typo in scroll-shadow.stories.tsx
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/use-data-scroll-overflow to 2.3.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- Sung Ye In
+
 # @nextui-org/scroll-shadow
 
 ## 2.1.16

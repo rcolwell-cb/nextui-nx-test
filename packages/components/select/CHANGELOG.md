@@ -1,3 +1,92 @@
+## 2.4.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- switch default validationBehavior to aria and allow switching via props
+
+- **calendar:** initial structure
+
+- **test:** react hook form tests & stories
+
+
+### 🩹 Fixes
+
+- avoid `src` in import path
+
+- add peer dependencies
+
+- plop template error
+
+- revise shouldCloseOnInteractOutside for FreeSoloPopover
+
+- make VisuallyHidden's element type as span when it's inside phrasing element
+
+- popover-based focus behaviour
+
+- **packages:** validation state deprecated, isInvalid prop adjusted
+
+- **select:** add placeholder dep for renderSelectedItem
+
+- **select:** multiline label
+
+- **select:** without label and input helperWrapper relative
+
+- **select:** add button component and update select component
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **input:** label position and styles
+
+- **select:** multiline styles
+
+- **input:** label placement outside when label is missing
+
+- **docs:** typos
+
+- **select:** isFilled & hasValue logic for state.selectedItems
+
+- **select:** disabled select shouldn't get update by keyboard
+
+- **component:** update type definition to prevent primitive values as items
+
+- **select:** onSelectionChange can handle number
+
+- **select:** placeholder text display for controlled component
+
+- **system:** listbox href issue (experimental)
+
+- **select:** add missing data-invalid in select and add missing data attributes in docs
+
+- **select:** unset form value after unselecting an item
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/use-safe-layout-effect to 2.2.0
+- Updated @nextui-org/use-aria-multiselect to 2.4.0
+- Updated @nextui-org/use-infinite-scroll to 2.3.0
+- Updated @nextui-org/stories-utils to 2.2.0
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/use-aria-button to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Artem Pitikin
+- Chongyi Zheng
+- Frozen FIsh
+- Junior Garcia
+- markyong
+- Ryo Matsukawa
+- Sung Ye In
+- աӄա
+
 # @nextui-org/select
 
 ## 2.2.1

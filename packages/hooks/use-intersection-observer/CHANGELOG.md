@@ -1,3 +1,15 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🩹 Fixes
+
+- **system:** listbox href issue (experimental)
+
+
+### ❤️  Thank You
+
+- աӄա
+
 # @nextui-org/use-intersection-observer
 
 ## 2.0.3

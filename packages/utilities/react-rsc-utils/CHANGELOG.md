@@ -1,3 +1,37 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **root:** RSC components added, packages modified, filter dom props  function adapted
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **input:** duplicate triggering of input events
+
+- **tooltip:** filter dom props function fixed
+
+- **root:** filter dom props function fixed, slot prop added
+
+- **utils:** filterDomProps fixed
+
+- **utils:** include enterKeyHint in dom-props
+
+- **core:** named exports and client directive
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- Tianen Pang
+- աӄա
+
 # @nextui-org/react-rsc-utils
 
 ## 2.0.12

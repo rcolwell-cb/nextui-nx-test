@@ -1,3 +1,24 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- selectedKeys are not present in the collection warning in async case
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/stories-utils
 
 ## 2.0.2

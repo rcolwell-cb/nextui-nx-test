@@ -1,3 +1,49 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- add peer dependencies
+
+- plop template error
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **menu:** add hideSelectedIcon prop to menu and listbox
+
+- **dropdown:** focus behaviour on press / enter keydown
+
+- **component:** update type definition to prevent primitive values as items
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/test-utils to 2.2.0
+- Updated @nextui-org/use-aria-menu to 2.2.0
+- Updated @nextui-org/use-is-mobile to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- Ryo Matsukawa
+- Sung Ye In
+- աӄա
+
 # @nextui-org/menu
 
 ## 2.0.24

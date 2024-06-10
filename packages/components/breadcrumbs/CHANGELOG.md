@@ -1,3 +1,36 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/breadcrumbs
 
 ## 2.0.9

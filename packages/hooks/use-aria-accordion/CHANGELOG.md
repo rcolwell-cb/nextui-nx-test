@@ -1,3 +1,61 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **root:** progress and accordion build size reduced by spliting aria utils
+
+- **root:** react aria packages upgraded to the latest version
+
+- **root:** new snapshot published
+
+- **root:** divider and kbd components added, docs in progress
+
+- **root:** tsup banner added to support use client directive
+
+- **docs:** home migrated to app directory
+
+- **docs:** migrated to app directory
+
+- **root:** packages updated
+
+- **root:** pagination docs done, colors a11y improved
+
+- **docs:** navbar in progress
+
+- **root:** layout configuration added to the tailwind plugin, components were adapted
+
+- **root:** react aria packages upgraded, SSRProvider removed since is no longer needed
+
+- **root:** needless useId removed since react-aria now supports react 18
+
+- **docs:** navbar docs fixed, popover and dropdown animations improved
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **plugin:** lodash dependencies
+
+- **accordion:** accordion is no longer preventing spacebar
+
+- **accordion:** ctrl+a shortcut inside
+
+- **system:** listbox href issue (experimental)
+
+
+### ❤️  Thank You
+
+- black197
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/use-aria-accordion
 
 ## 2.0.5

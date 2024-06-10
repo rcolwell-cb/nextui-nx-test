@@ -1,3 +1,26 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **link:** warning onClick removed
+
+- **system:** listbox href issue (experimental)
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/use-aria-link
 
 ## 2.0.17

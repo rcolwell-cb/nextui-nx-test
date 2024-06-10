@@ -1,3 +1,18 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🩹 Fixes
+
+- **hooks:** resolve type error in onKeyDown event handler
+
+- **system:** listbox href issue (experimental)
+
+
+### ❤️  Thank You
+
+- Minsu
+- աӄա
+
 # @nextui-org/use-aria-menu
 
 ## 2.0.4

@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/card",
-  "version": "2.0.30",
+  "version": "2.2.0",
   "description": "Card is a container for text, photos, and actions in the context of a single subject.",
   "keywords": [
     "card"
@@ -41,10 +41,10 @@
     "@nextui-org/system": ">=2.0.0"
   },
   "dependencies": {
-    "@nextui-org/shared-utils": "workspace:*",
-    "@nextui-org/react-utils": "workspace:*",
-    "@nextui-org/use-aria-button": "workspace:*",
-    "@nextui-org/ripple": "workspace:*",
+    "@nextui-org/shared-utils": "2.2.0",
+    "@nextui-org/react-utils": "2.2.0",
+    "@nextui-org/use-aria-button": "2.2.0",
+    "@nextui-org/ripple": "2.0.31",
     "@react-aria/focus": "3.16.2",
     "@react-aria/utils": "3.24.1",
     "@react-aria/interactions": "3.21.1",
@@ -52,13 +52,13 @@
     "@react-types/shared": "3.23.1"
   },
   "devDependencies": {
-    "@nextui-org/theme": "workspace:*",
-    "@nextui-org/system": "workspace:*",
-    "@nextui-org/code": "workspace:*",
-    "@nextui-org/link": "workspace:*",
-    "@nextui-org/button": "workspace:*",
-    "@nextui-org/avatar": "workspace:*",
-    "@nextui-org/image": "workspace:*",
+    "@nextui-org/theme": "2.4.0",
+    "@nextui-org/system": "2.3.0",
+    "@nextui-org/code": "2.0.30",
+    "@nextui-org/link": "2.0.33",
+    "@nextui-org/button": "2.0.36",
+    "@nextui-org/avatar": "2.0.32",
+    "@nextui-org/image": "2.0.31",
     "clean-package": "2.2.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

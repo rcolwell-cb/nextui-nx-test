@@ -1,3 +1,608 @@
+## 2.4.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- storybook + tw setup, link migrated to tv
+
+- link fully migrated to tv
+
+- avatar component migrated
+
+- avatar group created, test added, new hooks added
+
+- avatar and avatar group improved, fallback added, loaded animation added
+
+- user created, avatar improvements
+
+- checkbox group migrated, only tests missing
+
+- pagination initial structure added, tailwind variants upgraded
+
+- tooltip improved, new drip handler created, button improved
+
+- improved animations
+
+- add peerDep files in components.json and update  theme peerDep
+
+- **repo:** esm separated from cjs theme
+
+- **theme:** build improved
+
+- **theme:** palette improved, link styles done
+
+- **link:** focus visible added, theme made more robust
+
+- **link:** docs improved, foreground color added
+
+- **root:** tsup build improved
+
+- **link:** stories improved
+
+- **button:** migration in progress
+
+- **button:** button and drip migrated
+
+- **spinner:** needless spinners removed, main spinner migrated to tw
+
+- **button-group:** button-group migrated to tw
+
+- **code:** migrated
+
+- **tooltip:** migrated to react-aria and tw
+
+- **snippet:** migrated
+
+- **chip:** migration in progress
+
+- **root:** plugin created to add multiples themes, standard variants created
+
+- **root:** react 18, react aria packages upgraded
+
+- **badge:** migration in progress
+
+- **root:** gitignore reset
+
+- **root:** stitches removed globally, react 18 implemented, pnpm setup changed
+
+- **chip:** dot variant added, tests added
+
+- **checkbox:** migration in progress
+
+- **components:** prop getter type implemented to reduced the size of d.ts files
+
+- **radio-group:** intial structure
+
+- **radio:** almost complete, only tests missing
+
+- **components:** radio & checkbox improved, custom examples added to the stories
+
+- **root:** stories improved, welcome page added, pagination migration started
+
+- **pagination:** tests added
+
+- **pagination:** storybook examples improved
+
+- **switch:** initial structure
+
+- **switch:** component created
+
+- **accordion:** impl in progress
+
+- **accordion:** stories added
+
+- **tooltip:** arrow support added
+
+- **card:** context wrapper added
+
+- **card:** structure improved
+
+- **card:** stories added and tests passing
+
+- **root:** first snapshot version
+
+- **root:** clean package file taken from root
+
+- **theme:** default theme support added
+
+- **root:** new snapshot
+
+- **root:** script added to inject the "use client" directive
+
+- **root:** react aria id generation replaced by React 18 useId hook
+
+- **progress:** initial structure created
+
+- **progress:** component done, needless useId removed, SSR provider exported again
+
+- **chore:** progress component exported in the main package
+
+- **root:** new snapshot
+
+- **progress:** circular progress added
+
+- **root:** new snapshot release
+
+- **root:** new snapshot release
+
+- **root:** progress and accordion build size reduced by spliting aria utils
+
+- **progress:** label & value font size adjusted with the selected size
+
+- **circular-progress:** api improved
+
+- **root:** new snapshot
+
+- **input:** initial structure and styles created
+
+- **input:** api improved
+
+- **input:** start and end content added, new stories
+
+- **input:** styles fixed, input focus when wrapper is clicked applied
+
+- **root:** new version
+
+- **popover:** popover & tooltip shared logic moved to aria-utils, popover in progress
+
+- **root:** react aria packages upgraded to the latest version
+
+- **root:** new snapshot published
+
+- **popover:** a11y improved, titleProps passed by render props, form auto focus added
+
+- **popover:** backdrop support added
+
+- **dropdown:** initial structure
+
+- **dropdown:** structure improved
+
+- **dropdown:** storybook completed
+
+- **dropdown:** tests added
+
+- **root:** new snapshot
+
+- **image:** initial structure
+
+- **image:** image component added
+
+- **modal:** initial structure created
+
+- **modal:** implementation done
+
+- **modal:** new snapshot
+
+- **switch:** data management improved, animation improved
+
+- **input:** data management improved
+
+- **root:** more components refactored to have better data management and focus visible
+
+- **components:** focus visible & other states are now handled by data properties
+
+- **root:** new snapshot
+
+- **navbar:** in progress
+
+- **navbar:** navbar menu implemented
+
+- **navbar:** open/close animation implemented in framer, tests added
+
+- **navbar:** tests added, animations improved
+
+- **navbar:** blur styles improved
+
+- **table:** initial structure created
+
+- **table:** big improvements
+
+- **table:** sortable and load-more examples added
+
+- **table:** component done
+
+- **root:** divider and kbd components added, docs in progress
+
+- **docs:** hero in progress, some components fixed
+
+- **docs:** hero improved, tabs component initial structure
+
+- **root:** tabs component created, animation improved
+
+- **root:** tsup banner added to support use client directive
+
+- **docs:** hero section responsive improved
+
+- **docs:** second section done desktop
+
+- **docs:** a11y and responsive improved
+
+- **docs:** dark mode section started
+
+- **docs:** demo modal for code examples added
+
+- **snippet:** copy button and structure improved
+
+- **docs:** page improvements
+
+- **docs:** avatar docs completed
+
+- **root:** new snapshot
+
+- **docs:** button docs started
+
+- **button:** spinner added
+
+- **docs:** button documentation in progress
+
+- **docs:** card docs in progress
+
+- **docs:** accordion done
+
+- **docs:** badge done
+
+- **docs:** checkbox group docs done
+
+- **docs:** chip and circular progress done
+
+- **docs:** code documentation added
+
+- **docs:** kbd docs added
+
+- **docs:** spinner docs added
+
+- **docs:** navbar manifest added
+
+- **docs:** import tabs added, link docs in progress
+
+- **docs:** progress done, internal APi improved
+
+- **docs:** skeleton docs in progress
+
+- **docs:** skeleton docs completed, navbar menu toggle fixed
+
+- **docs:** snippet done
+
+- **docs:** input docs done
+
+- **docs:** docs structure improved, steps added and toc autoscroll
+
+- **docs:** headings and toc enhacements
+
+- **docs:** textarea docs done
+
+- **docs:** some improvements applied, button and spinner styles fixed
+
+- **root:** react aria packages upgraded, fix input types
+
+- **docs:** image docs done
+
+- **docs:** radio group done
+
+- **docs:** switch docs done
+
+- **docs:** popover docs almost done
+
+- **docs:** popover examples added
+
+- **docs:** popover docs done
+
+- **docs:** tooltip docs done
+
+- **docs:** tabs docs done
+
+- **docs:** accordion improved, badge fixed, modal started
+
+- **docs:** scroll mask image linear gradient added to sidebar and toc
+
+- **modal:** improved on mobile
+
+- **docs:** modal docs in progress
+
+- **root:** warning and success colors a11y improved on light theme, docs bugs fixed
+
+- **docs:** home migrated to app directory
+
+- **docs:** migrated to app directory
+
+- **root:** packages updated
+
+- **docs:** a11y and performance optimizations on landing page
+
+- **root:** modal, popover and navbar menu issues fixed, navbar styles simplified, docs improved
+
+- **root:** tv upgraded, modal docs improved, search meta script added
+
+- **root:** new snapshot
+
+- **docs:** modal examples added
+
+- **docs:** modal docs done
+
+- **docs:** search cmdk implemented
+
+- **root:** modal improved, flat colors changed
+
+- **root:** new snapshot
+
+- **docs:** pagination in progress
+
+- **root:** pagination docs done, colors a11y improved
+
+- **docs:** pagination improved
+
+- **paignation:** automatic scroll added, styles improved
+
+- **root:** tab highlight transparent and scrollbar hide utilities added, tabs improvements
+
+- **root:** utilities, update effect hook added, tabs improvements
+
+- **root:** pagination and tabs improvements, cmdk recent searches fixed
+
+- **root:** new snapshot
+
+- **root:** new snapshot version
+
+- **docs:** dropdown in progress
+
+- **docs:** dropdown docs almost done
+
+- **root:** semantic colors improved, dropdown search meta updated
+
+- **docs:** dropdown docs in progress, some styles changes
+
+- **docs:** dropdown styles and API changed, custom styles examples improved
+
+- **docs:** dropdown done
+
+- **docs:** navbar in progress
+
+- **root:** layout configuration added to the tailwind plugin, components were adapted
+
+- **root:** react aria packages upgraded, SSRProvider removed since is no longer needed
+
+- **root:** needless useId removed since react-aria now supports react 18
+
+- **docs:** navbar docs fixed, popover and dropdown animations improved
+
+- **root:** animations management improved
+
+- **root:** new ripple pkg created
+
+- **root:** accordion animation improved, units introduced, button spacing migrated to units
+
+- **accordion:** transition improved
+
+- **modal:** mobile transition changed
+
+- **root:** new snap
+
+- **navbar:** docs improved, new release published
+
+- **docs:** table docs in progress
+
+- **docs:** more table examples added
+
+- **docs:** table custom styles example added, api added
+
+- **docs:** new snapshot, sandpack fixes, table fixes
+
+- **docs:** theme docs in progress
+
+- **docs:** customization docs added
+
+- **docs:** override styles in progress
+
+- **docs:** customization part done. new snapshot
+
+- **root:** extendStyles function in progress
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **root:** new snapshot
+
+- **docs:** extendVariants slots support
+
+- **docs:** new snapshot, release blog in progress
+
+- **root:** v2 published
+
+- **system:** extend props for nextui provider
+
+- **calendar:** initial structure
+
+- **tabs:** add `destroyInactiveTabPanel` prop for Tabs component
+
+
+### 🩹 Fixes
+
+- fixed bordered button styling issues inside group
+
+- fixed pagination problems
+
+- fix image loading status
+
+- pagination dots changes now on focus visible to arrows
+
+- added min gap to navbar
+
+- increased hitbox of radio and checkbox
+
+- fixed switch small pressed state animation
+
+- resolved cursor issues in pagination
+
+- set nowrap in chip
+
+- pagination issues second try
+
+- plop template error
+
+- sematic typos
+
+- add RTL support to the modal component
+
+- issue on RTL support checkbox component
+
+- add RTL support to the modal component
+
+- add RTL support to the avatar group component
+
+- remove conflicting transition utilities
+
+- **drip:** time to remove drips
+
+- **drip:** animation
+
+- **input:** default label placement
+
+- **popover:** placements
+
+- **root:** card npm pkg
+
+- **docs:** lsc navbar fixed
+
+- **docs:** image
+
+- **docs:** intl message dependency, examples layout improved
+
+- **root:** button ring and examples
+
+- **docs:** modal dynamic height, snadpack editor replaced by codeblock
+
+- **pagination:** item tap highlight transparent
+
+- **pagination:** touch and select none added
+
+- **dropdown:** styles fixed
+
+- **plugin:** lodash dependencies
+
+- **root:** radio and checkbox state memoized, accordion transition changed
+
+- **root:** tabs perf issues, accordion overflow
+
+- **root:** input, textarea and accordion perf issues
+
+- **input:** on value change
+
+- **root:** tailwind variants updated to fix the perf issues
+
+- **progress:** max vand mix values fixed
+
+- **root:** table sandpacks, input label placeholder
+
+- **table:** styles issues
+
+- **Chip:** style issue
+
+- **core:** new snapshot, system pkg build fixed
+
+- **modal:** content placement changed on mobile when outside scroll
+
+- **docs:** navbar with search input example
+
+- **dropdown:** popover and dropdown fixes
+
+- **popover:** arrow color
+
+- **docs:** table async pagination
+
+- **packages:** validation state deprecated, isInvalid prop adjusted
+
+- **radio:** correct the style of radio in invalid and selected states
+
+- **select:** multiline label
+
+- **select:** without label and input helperWrapper relative
+
+- **theme:** update input and select styling and add data attribute for
+
+- **input:** label position and styles
+
+- **autocomplete:** endContent prop
+
+- **select:** multiline styles
+
+- **textarea:** styles issues and start/end content props added
+
+- **progress:** tv function refactored
+
+- **docs:** typos
+
+- **components:** rtl styles in toggle
+
+- **theme:** chip with dot variant is not properly padded when having a 1-char text
+
+- **chip:** avoid chip malformed
+
+- **table striped:** isStriped prop fix for multiple computed values in `td`
+
+- **disabled table rows:** fixed cursor for disabled rows in Table
+
+- **kbd:** add RTL support to the kbd component
+
+- **input:** resolve RTL support
+
+- **skeleton:** fixed missing disableAnimation behavior in skeleton
+
+- **popover:** unexpected props on a DOM element
+
+- **core:** hsl rounding issue
+
+- **select:** add RTL support to the select component
+
+- **popover:** trigger disabled prop warning
+
+- **radioGroup:** add RTL support to the radio group component
+
+- **progress:** turn twMerge true to fix custom styling
+
+- **slider:** fix slider component vertical mark y position focus
+
+- **range-calendar:** hide only dates outside the month
+
+- **input:** correct label margin for RTL required inputs
+
+- **slider:** missing marks when hideThumb is true & revise slider styles
+
+- **theme:** add pointer-events-none to skeleton base
+
+- **theme:** remove origin-bottom from button
+
+- **skeleton:** overflow issue in skeleton
+
+- **theme:** revise input isInvalid styles
+
+- **core:** incorrect tailwind classnames
+
+- **calendar:** scrolling is hidden when changing the month
+
+- **theme:** add missing pointer event after data loaded
+
+
+### ❤️  Thank You
+
+- Alpha Xek
+- Amirhossein Khatabakhsh
+- Bobby Chan
+- CAEB Wallace
+- Cam Cam
+- Frozen FIsh
+- HaRuki
+- Jakob Guddas
+- Junior Garcia
+- Mohammad Reza Badri
+- Poli Sour
+- Shrinidhi Upadhyaya
+- Tianen Pang
+- TRAN Duc Khanh
+- Troye
+- u3u
+- winches
+- ynnsuis
+- աӄա
+
 # @nextui-org/theme
 
 ## 2.2.5

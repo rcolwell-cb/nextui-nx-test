@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/system",
-  "version": "2.2.1",
+  "version": "2.4.0",
   "description": "NextUI system primitives",
   "keywords": [
     "system"
@@ -54,8 +54,8 @@
     ]
   },
   "dependencies": {
-    "@nextui-org/system-rsc": "workspace:*",
-    "@nextui-org/react-utils": "workspace:*",
+    "@nextui-org/system-rsc": "2.2.0",
+    "@nextui-org/react-utils": "2.2.0",
     "@react-aria/i18n": "3.10.2",
     "@internationalized/date": "^3.5.2",
     "@react-aria/overlays": "3.21.1",

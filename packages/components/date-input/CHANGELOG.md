@@ -1,3 +1,33 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- switch default validationBehavior to aria and allow switching via props
+
+
+### 🩹 Fixes
+
+- error peerDep in pkg
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/test-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Ryo Matsukawa
+- winches
+- աӄա
+
 # @nextui-org/date-input
 
 ## 2.1.0

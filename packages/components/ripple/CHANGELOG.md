@@ -1,3 +1,105 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **root:** new ripple pkg created
+
+- **root:** accordion animation improved, units introduced, button spacing migrated to units
+
+- **accordion:** transition improved
+
+- **modal:** mobile transition changed
+
+- **root:** new snap
+
+- **navbar:** docs improved, new release published
+
+- **docs:** table docs in progress
+
+- **docs:** more table examples added
+
+- **docs:** table custom styles example added, api added
+
+- **docs:** new snapshot, sandpack fixes, table fixes
+
+- **docs:** theme docs in progress
+
+- **docs:** customization docs added
+
+- **docs:** override styles in progress
+
+- **docs:** customization part done. new snapshot
+
+- **root:** extendStyles function in progress
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **root:** new snapshot
+
+- **docs:** extendVariants slots support
+
+- **docs:** new snapshot, release blog in progress
+
+- **root:** v2 published
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- avoid `src` in import path
+
+- add peer dependencies
+
+- plop template error
+
+- lazyMotion forwardRef issue
+
+- **root:** radio and checkbox state memoized, accordion transition changed
+
+- **root:** tabs perf issues, accordion overflow
+
+- **root:** input, textarea and accordion perf issues
+
+- **input:** on value change
+
+- **root:** tailwind variants updated to fix the perf issues
+
+- **progress:** max vand mix values fixed
+
+- **root:** table sandpacks, input label placeholder
+
+- **table:** styles issues
+
+- **core:** new snapshot, system pkg build fixed
+
+- **ripple:** clear ripples on animation complete
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **docs:** typos
+
+- **ripple:** z-index adjusted
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Chongyi Zheng
+- Frozen FIsh
+- Junior Garcia
+- Sung Ye In
+- աӄա
+
 # @nextui-org/ripple
 
 ## 2.0.29

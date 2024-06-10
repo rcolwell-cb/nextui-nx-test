@@ -1,3 +1,217 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **components:** arrow icon added to the collapse item, new package added
+
+- **root:** tsup build improved
+
+- **tooltip:** migrated to react-aria and tw
+
+- **root:** react 18, react aria packages upgraded
+
+- **root:** stitches removed globally, react 18 implemented, pnpm setup changed
+
+- **components:** prop getter type implemented to reduced the size of d.ts files
+
+- **root:** first snapshot version
+
+- **root:** clean package file taken from root
+
+- **root:** new snapshot
+
+- **root:** script added to inject the "use client" directive
+
+- **root:** react aria id generation replaced by React 18 useId hook
+
+- **chore:** progress component exported in the main package
+
+- **root:** new snapshot
+
+- **root:** new snapshot release
+
+- **root:** new snapshot release
+
+- **root:** progress and accordion build size reduced by spliting aria utils
+
+- **root:** new snapshot
+
+- **root:** new version
+
+- **root:** new snapshot published
+
+- **popover:** a11y improved, titleProps passed by render props, form auto focus added
+
+- **popover:** backdrop support added
+
+- **root:** new snapshot
+
+- **image:** image component added
+
+- **modal:** new snapshot
+
+- **root:** new snapshot
+
+- **navbar:** tests added, animations improved
+
+- **table:** component done
+
+- **root:** divider and kbd components added, docs in progress
+
+- **root:** tabs component created, animation improved
+
+- **root:** tsup banner added to support use client directive
+
+- **docs:** home migrated to app directory
+
+- **docs:** migrated to app directory
+
+- **root:** packages updated
+
+- **docs:** a11y and performance optimizations on landing page
+
+- **root:** modal, popover and navbar menu issues fixed, navbar styles simplified, docs improved
+
+- **root:** new snapshot
+
+- **docs:** modal docs done
+
+- **docs:** search cmdk implemented
+
+- **root:** modal improved, flat colors changed
+
+- **root:** new snapshot
+
+- **docs:** pagination in progress
+
+- **root:** pagination docs done, colors a11y improved
+
+- **docs:** pagination improved
+
+- **paignation:** automatic scroll added, styles improved
+
+- **root:** utilities, update effect hook added, tabs improvements
+
+- **root:** pagination and tabs improvements, cmdk recent searches fixed
+
+- **root:** new snapshot
+
+- **root:** new snapshot version
+
+- **docs:** dropdown in progress
+
+- **docs:** dropdown docs almost done
+
+- **root:** semantic colors improved, dropdown search meta updated
+
+- **docs:** dropdown docs in progress, some styles changes
+
+- **docs:** dropdown styles and API changed, custom styles examples improved
+
+- **docs:** dropdown done
+
+- **docs:** navbar in progress
+
+- **root:** layout configuration added to the tailwind plugin, components were adapted
+
+- **root:** react aria packages upgraded, SSRProvider removed since is no longer needed
+
+- **root:** needless useId removed since react-aria now supports react 18
+
+- **docs:** navbar docs fixed, popover and dropdown animations improved
+
+- **root:** animations management improved
+
+- **root:** new ripple pkg created
+
+- **root:** accordion animation improved, units introduced, button spacing migrated to units
+
+- **accordion:** transition improved
+
+- **modal:** mobile transition changed
+
+- **root:** new snap
+
+- **navbar:** docs improved, new release published
+
+- **docs:** table docs in progress
+
+- **docs:** more table examples added
+
+- **docs:** table custom styles example added, api added
+
+- **docs:** new snapshot, sandpack fixes, table fixes
+
+- **docs:** theme docs in progress
+
+- **docs:** customization docs added
+
+- **docs:** override styles in progress
+
+- **docs:** customization part done. new snapshot
+
+- **root:** extendStyles function in progress
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **root:** new snapshot
+
+- **docs:** extendVariants slots support
+
+- **docs:** new snapshot, release blog in progress
+
+- **root:** v2 published
+
+- **root:** RSC components added, packages modified, filter dom props  function adapted
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **drip:** animation
+
+- **input:** default label placement
+
+- **dropdown:** styles fixed
+
+- **plugin:** lodash dependencies
+
+- **root:** radio and checkbox state memoized, accordion transition changed
+
+- **root:** tabs perf issues, accordion overflow
+
+- **root:** input, textarea and accordion perf issues
+
+- **input:** on value change
+
+- **root:** tailwind variants updated to fix the perf issues
+
+- **progress:** max vand mix values fixed
+
+- **root:** table sandpacks, input label placeholder
+
+- **table:** styles issues
+
+- **core:** new snapshot, system pkg build fixed
+
+- **core:** export * from not supported on client components
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/react-rsc-utils to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+
 # @nextui-org/react-utils
 
 ## 2.0.13

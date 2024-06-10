@@ -1,3 +1,328 @@
+## 2.4.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- switch default validationBehavior to aria and allow switching via props
+
+- **hooks:** needed hooks to create input added
+
+- **input:** initial structure and styles created
+
+- **input:** api improved
+
+- **input:** start and end content added, new stories
+
+- **input:** styles fixed, input focus when wrapper is clicked applied
+
+- **input:** srotybook improved, custom with hooks example added
+
+- **input:** tests added
+
+- **root:** new version
+
+- **root:** react aria packages upgraded to the latest version
+
+- **root:** new snapshot published
+
+- **popover:** a11y improved, titleProps passed by render props, form auto focus added
+
+- **popover:** backdrop support added
+
+- **root:** new snapshot
+
+- **image:** image component added
+
+- **modal:** new snapshot
+
+- **input:** data management improved
+
+- **root:** new snapshot
+
+- **navbar:** tests added, animations improved
+
+- **navbar:** blur styles improved
+
+- **table:** component done
+
+- **root:** divider and kbd components added, docs in progress
+
+- **root:** tabs component created, animation improved
+
+- **root:** tsup banner added to support use client directive
+
+- **docs:** second section done desktop
+
+- **docs:** a11y and responsive improved
+
+- **docs:** demo modal for code examples added
+
+- **root:** new snapshot
+
+- **button:** spinner added
+
+- **docs:** accordion done
+
+- **docs:** badge done
+
+- **docs:** chip and circular progress done
+
+- **docs:** navbar manifest added
+
+- **docs:** import tabs added, link docs in progress
+
+- **docs:** progress done, internal APi improved
+
+- **docs:** skeleton docs in progress
+
+- **docs:** skeleton docs completed, navbar menu toggle fixed
+
+- **docs:** snippet done
+
+- **docs:** input docs done
+
+- **docs:** docs structure improved, steps added and toc autoscroll
+
+- **docs:** headings and toc enhacements
+
+- **docs:** textarea docs done
+
+- **docs:** some improvements applied, button and spinner styles fixed
+
+- **root:** react aria packages upgraded, fix input types
+
+- **docs:** radio group done
+
+- **docs:** switch docs done
+
+- **docs:** popover docs almost done
+
+- **docs:** popover docs done
+
+- **docs:** tooltip docs done
+
+- **docs:** tabs docs done
+
+- **docs:** accordion improved, badge fixed, modal started
+
+- **modal:** improved on mobile
+
+- **docs:** modal docs in progress
+
+- **root:** warning and success colors a11y improved on light theme, docs bugs fixed
+
+- **docs:** home migrated to app directory
+
+- **docs:** migrated to app directory
+
+- **root:** packages updated
+
+- **docs:** a11y and performance optimizations on landing page
+
+- **root:** modal, popover and navbar menu issues fixed, navbar styles simplified, docs improved
+
+- **root:** new snapshot
+
+- **docs:** modal docs done
+
+- **docs:** search cmdk implemented
+
+- **root:** modal improved, flat colors changed
+
+- **root:** new snapshot
+
+- **docs:** pagination in progress
+
+- **root:** pagination docs done, colors a11y improved
+
+- **docs:** pagination improved
+
+- **paignation:** automatic scroll added, styles improved
+
+- **root:** utilities, update effect hook added, tabs improvements
+
+- **root:** new snapshot
+
+- **root:** pagination and tabs improvements, cmdk recent searches fixed
+
+- **root:** new snapshot
+
+- **root:** new snapshot version
+
+- **docs:** dropdown in progress
+
+- **docs:** dropdown docs almost done
+
+- **root:** semantic colors improved, dropdown search meta updated
+
+- **docs:** dropdown docs in progress, some styles changes
+
+- **docs:** dropdown styles and API changed, custom styles examples improved
+
+- **docs:** dropdown done
+
+- **docs:** navbar in progress
+
+- **root:** layout configuration added to the tailwind plugin, components were adapted
+
+- **root:** react aria packages upgraded, SSRProvider removed since is no longer needed
+
+- **root:** needless useId removed since react-aria now supports react 18
+
+- **docs:** navbar docs fixed, popover and dropdown animations improved
+
+- **root:** animations management improved
+
+- **root:** new ripple pkg created
+
+- **root:** accordion animation improved, units introduced, button spacing migrated to units
+
+- **accordion:** transition improved
+
+- **modal:** mobile transition changed
+
+- **root:** new snap
+
+- **navbar:** docs improved, new release published
+
+- **docs:** table docs in progress
+
+- **docs:** more table examples added
+
+- **docs:** table custom styles example added, api added
+
+- **docs:** new snapshot, sandpack fixes, table fixes
+
+- **docs:** theme docs in progress
+
+- **docs:** customization docs added
+
+- **docs:** override styles in progress
+
+- **docs:** customization part done. new snapshot
+
+- **root:** extendStyles function in progress
+
+- **root:** extendStyles function created for component without slots
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **root:** new snapshot
+
+- **docs:** extendVariants slots support
+
+- **docs:** new snapshot, release blog in progress
+
+- **root:** v2 published
+
+- **root:** RSC components added, packages modified, filter dom props  function adapted
+
+- **calendar:** initial structure
+
+- **test:** react hook form tests & stories
+
+
+### 🩹 Fixes
+
+- added missing helper text wrapper to textarea
+
+- add peer dependencies
+
+- plop template error
+
+- **input:** default label placement
+
+- **root:** card npm pkg
+
+- **docs:** lsc navbar fixed
+
+- **root:** button ring and examples
+
+- **docs:** modal dynamic height, snadpack editor replaced by codeblock
+
+- **pagination:** item tap highlight transparent
+
+- **dropdown:** styles fixed
+
+- **plugin:** lodash dependencies
+
+- **root:** radio and checkbox state memoized, accordion transition changed
+
+- **root:** tabs perf issues, accordion overflow
+
+- **root:** input, textarea and accordion perf issues
+
+- **input:** on value change
+
+- **root:** tailwind variants updated to fix the perf issues
+
+- **progress:** max vand mix values fixed
+
+- **root:** table sandpacks, input label placeholder
+
+- **table:** styles issues
+
+- **stories:** fixed password field story issues
+
+- **core:** new snapshot, system pkg build fixed
+
+- **input:** duplicate triggering of input events
+
+- **input:** don't always use controlled mode
+
+- **packages:** validation state deprecated, isInvalid prop adjusted
+
+- **select:** without label and input helperWrapper relative
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **theme:** update input and select styling and add data attribute for
+
+- **input:** label position and styles
+
+- **textarea:** styles issues and start/end content props added
+
+- **input:** label placement outside when label is missing
+
+- **input:** clearable feature
+
+- **components:** input label overlapping issue
+
+- **docs:** typos
+
+- **components:** number input label #2268 fixed
+
+- **input:** keep input component's position in innerWrapper steady
+
+- **input:** isClearable & add test cases to input
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/use-safe-layout-effect to 2.2.0
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- black197
+- Frozen FIsh
+- Jakob Guddas
+- Junior Garcia
+- Prakash Choudhary
+- Ryo Matsukawa
+- Sung Ye In
+- Tianen Pang
+- Tommaso De Rossi
+- աӄա
+
 # @nextui-org/input
 
 ## 2.2.1

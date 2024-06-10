@@ -1,3 +1,7 @@
+## 2.2.0 (2024-06-10)
+
+This was a version bump only for @nextui-org/use-measure to align it with other projects, there were no code changes.
+
 # @nextui-org/use-real-shape
 
 ## 2.0.1

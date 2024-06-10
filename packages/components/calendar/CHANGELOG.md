@@ -1,3 +1,43 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+- **docs:** docs changes
+
+
+### 🩹 Fixes
+
+- error peerDep in pkg
+
+- **calendar:** fix #2820 #2857 maximum update depth exceeded on Calendar & RangeCalendar
+
+- **range-calendar:** hide only dates outside the month
+
+- **date-picker:** corrected inert value for true condition
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/use-aria-button to 2.2.0
+- Updated @nextui-org/test-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Junior Garcia
+- Shrinidhi Upadhyaya
+- winches
+- աӄա
+
 # @nextui-org/calendar
 
 ## 2.0.6

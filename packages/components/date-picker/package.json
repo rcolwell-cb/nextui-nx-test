@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/date-picker",
-  "version": "2.1.1",
+  "version": "2.3.0",
   "description": "A date picker combines a DateInput and a Calendar popover to allow users to enter or select a date and time value.",
   "keywords": [
     "date-picker"
@@ -40,14 +40,14 @@
     "react-dom": ">=18"
   },
   "dependencies": {
-    "@nextui-org/react-utils": "workspace:*",
-    "@nextui-org/shared-utils": "workspace:*",
-    "@nextui-org/popover": "workspace:*",
-    "@nextui-org/calendar": "workspace:*",
-    "@nextui-org/button": "workspace:*",
-    "@nextui-org/date-input": "workspace:*",
-    "@nextui-org/shared-icons": "workspace:*",
-    "@nextui-org/aria-utils": "workspace:*",
+    "@nextui-org/react-utils": "2.2.0",
+    "@nextui-org/shared-utils": "2.2.0",
+    "@nextui-org/popover": "2.1.23",
+    "@nextui-org/calendar": "2.0.7",
+    "@nextui-org/button": "2.0.36",
+    "@nextui-org/date-input": "2.1.1",
+    "@nextui-org/shared-icons": "2.2.0",
+    "@nextui-org/aria-utils": "2.0.20",
     "@react-stately/overlays": "3.6.5",
     "@react-stately/utils": "3.9.1",
     "@internationalized/date": "^3.5.2",
@@ -59,10 +59,10 @@
     "@react-aria/utils": "3.23.2"
   },
   "devDependencies": {
-    "@nextui-org/system": "workspace:*",
-    "@nextui-org/theme": "workspace:*",
-    "@nextui-org/radio": "workspace:*",
-    "@nextui-org/test-utils": "workspace:*",
+    "@nextui-org/system": "2.3.0",
+    "@nextui-org/theme": "2.4.0",
+    "@nextui-org/radio": "2.1.5",
+    "@nextui-org/test-utils": "2.2.0",
     "clean-package": "2.2.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

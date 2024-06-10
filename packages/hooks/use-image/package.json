@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/use-image",
-  "version": "2.0.5",
+  "version": "2.2.0",
   "description": "React hook for progressing image loading",
   "keywords": [
     "use-image"
@@ -34,7 +34,7 @@
     "postpack": "clean-package restore"
   },
   "dependencies": {
-    "@nextui-org/use-safe-layout-effect": "workspace:*"
+    "@nextui-org/use-safe-layout-effect": "2.2.0"
   },
   "peerDependencies": {
     "react": ">=18"

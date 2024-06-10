@@ -1,3 +1,364 @@
+## 2.2.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- checkbox group migrated, only tests missing
+
+- tooltip improved, new drip handler created, button improved
+
+- soft spring ease added, tooltip build fixed
+
+- **components:** button component added
+
+- **components:** button groupo stories added
+
+- **components:** loading component added, button stories improved
+
+- **components:** badge stories added, icons packages renames
+
+- **components:** radio component added, tests still missing
+
+- **components:** collapse component added, styles, tests & stories still missing , other refactors
+
+- **root:** tsup build improved
+
+- **button:** migration in progress
+
+- **button:** button and drip migrated
+
+- **spinner:** needless spinners removed, main spinner migrated to tw
+
+- **button-group:** button-group migrated to tw
+
+- **button-group:** button-group migrated to tw
+
+- **snippet:** migrated
+
+- **root:** plugin created to add multiples themes, standard variants created
+
+- **root:** react 18, react aria packages upgraded
+
+- **root:** stitches removed globally, react 18 implemented, pnpm setup changed
+
+- **checkbox:** migration in progress
+
+- **components:** prop getter type implemented to reduced the size of d.ts files
+
+- **components:** radio & checkbox improved, custom examples added to the stories
+
+- **root:** stories improved, welcome page added, pagination migration started
+
+- **root:** first snapshot version
+
+- **root:** clean package file taken from root
+
+- **theme:** default theme support added
+
+- **root:** new snapshot
+
+- **root:** script added to inject the "use client" directive
+
+- **root:** new snapshot, new storybook
+
+- **root:** react aria id generation replaced by React 18 useId hook
+
+- **chore:** progress component exported in the main package
+
+- **root:** new snapshot
+
+- **root:** new snapshot release
+
+- **root:** new snapshot release
+
+- **root:** progress and accordion build size reduced by spliting aria utils
+
+- **progress:** label & value font size adjusted with the selected size
+
+- **root:** new snapshot
+
+- **root:** new version
+
+- **root:** react aria packages upgraded to the latest version
+
+- **root:** new snapshot published
+
+- **popover:** a11y improved, titleProps passed by render props, form auto focus added
+
+- **popover:** backdrop support added
+
+- **root:** new snapshot
+
+- **image:** image component added
+
+- **modal:** new snapshot
+
+- **root:** more components refactored to have better data management and focus visible
+
+- **components:** focus visible & other states are now handled by data properties
+
+- **root:** new snapshot
+
+- **navbar:** tests added, animations improved
+
+- **navbar:** blur styles improved
+
+- **table:** component done
+
+- **root:** divider and kbd components added, docs in progress
+
+- **root:** tabs component created, animation improved
+
+- **root:** tsup banner added to support use client directive
+
+- **docs:** second section done desktop
+
+- **docs:** a11y and responsive improved
+
+- **docs:** mobile improvements, new section added
+
+- **docs:** demo modal for code examples added
+
+- **root:** new snapshot
+
+- **docs:** button docs started
+
+- **button:** spinner added
+
+- **docs:** button documentation in progress
+
+- **docs:** accordion done
+
+- **docs:** badge done
+
+- **docs:** chip and circular progress done
+
+- **docs:** navbar manifest added
+
+- **docs:** import tabs added, link docs in progress
+
+- **docs:** progress done, internal APi improved
+
+- **docs:** skeleton docs in progress
+
+- **docs:** skeleton docs completed, navbar menu toggle fixed
+
+- **docs:** snippet done
+
+- **docs:** input docs done
+
+- **docs:** docs structure improved, steps added and toc autoscroll
+
+- **docs:** headings and toc enhacements
+
+- **docs:** textarea docs done
+
+- **docs:** some improvements applied, button and spinner styles fixed
+
+- **root:** react aria packages upgraded, fix input types
+
+- **docs:** radio group done
+
+- **docs:** switch docs done
+
+- **docs:** popover docs almost done
+
+- **docs:** popover docs done
+
+- **docs:** tooltip docs done
+
+- **docs:** tabs docs done
+
+- **docs:** accordion improved, badge fixed, modal started
+
+- **modal:** improved on mobile
+
+- **docs:** modal docs in progress
+
+- **root:** warning and success colors a11y improved on light theme, docs bugs fixed
+
+- **docs:** home migrated to app directory
+
+- **docs:** migrated to app directory
+
+- **root:** packages updated
+
+- **docs:** a11y and performance optimizations on landing page
+
+- **root:** modal, popover and navbar menu issues fixed, navbar styles simplified, docs improved
+
+- **root:** new snapshot
+
+- **docs:** modal docs done
+
+- **docs:** search cmdk implemented
+
+- **root:** modal improved, flat colors changed
+
+- **root:** new snapshot
+
+- **docs:** pagination in progress
+
+- **root:** pagination docs done, colors a11y improved
+
+- **docs:** pagination improved
+
+- **paignation:** automatic scroll added, styles improved
+
+- **root:** tab highlight transparent and scrollbar hide utilities added, tabs improvements
+
+- **root:** utilities, update effect hook added, tabs improvements
+
+- **root:** new snapshot
+
+- **root:** pagination and tabs improvements, cmdk recent searches fixed
+
+- **root:** new snapshot
+
+- **root:** new snapshot version
+
+- **docs:** dropdown in progress
+
+- **docs:** dropdown docs almost done
+
+- **root:** semantic colors improved, dropdown search meta updated
+
+- **docs:** dropdown docs in progress, some styles changes
+
+- **docs:** dropdown styles and API changed, custom styles examples improved
+
+- **docs:** dropdown done
+
+- **docs:** navbar in progress
+
+- **root:** layout configuration added to the tailwind plugin, components were adapted
+
+- **root:** react aria packages upgraded, SSRProvider removed since is no longer needed
+
+- **root:** needless useId removed since react-aria now supports react 18
+
+- **docs:** navbar docs fixed, popover and dropdown animations improved
+
+- **root:** animations management improved
+
+- **root:** new ripple pkg created
+
+- **root:** accordion animation improved, units introduced, button spacing migrated to units
+
+- **accordion:** transition improved
+
+- **modal:** mobile transition changed
+
+- **root:** new snap
+
+- **navbar:** docs improved, new release published
+
+- **docs:** table docs in progress
+
+- **docs:** more table examples added
+
+- **docs:** table custom styles example added, api added
+
+- **docs:** new snapshot, sandpack fixes, table fixes
+
+- **docs:** theme docs in progress
+
+- **docs:** customization docs added
+
+- **docs:** override styles in progress
+
+- **docs:** customization part done. new snapshot
+
+- **root:** extendStyles function in progress
+
+- **root:** extendStyles function created for component without slots
+
+- **root:** extendStyles renamed to extendVariants, compound and default variants support added
+
+- **root:** new snapshot
+
+- **docs:** extendVariants slots support
+
+- **docs:** new snapshot, release blog in progress
+
+- **root:** v2 published
+
+- **root:** RSC components added, packages modified, filter dom props  function adapted
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- add peer dependencies
+
+- plop template error
+
+- **button:** tests
+
+- **button:** react aria button hook moved to the button to remove the onClick warning
+
+- **drip:** animation
+
+- **input:** default label placement
+
+- **root:** card npm pkg
+
+- **docs:** lsc navbar fixed
+
+- **root:** button ring and examples
+
+- **docs:** modal dynamic height, snadpack editor replaced by codeblock
+
+- **pagination:** item tap highlight transparent
+
+- **dropdown:** styles fixed
+
+- **plugin:** lodash dependencies
+
+- **root:** radio and checkbox state memoized, accordion transition changed
+
+- **root:** tabs perf issues, accordion overflow
+
+- **root:** input, textarea and accordion perf issues
+
+- **input:** on value change
+
+- **root:** tailwind variants updated to fix the perf issues
+
+- **progress:** max vand mix values fixed
+
+- **root:** table sandpacks, input label placeholder
+
+- **table:** styles issues
+
+- **core:** new snapshot, system pkg build fixed
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **docs:** typos
+
+- **system:** listbox href issue (experimental)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/use-aria-button to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- Sung Ye In
+- աӄա
+
 # @nextui-org/button
 
 ## 2.0.33

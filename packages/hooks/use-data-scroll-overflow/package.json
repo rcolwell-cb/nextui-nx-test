@@ -1,6 +1,6 @@
 {
   "name": "@nextui-org/use-data-scroll-overflow",
-  "version": "2.1.4",
+  "version": "2.3.0",
   "description": "A hook to add data attributes when the element has top or bottom scroll.",
   "keywords": [
     "use-data-scroll-overflow"
@@ -34,7 +34,7 @@
     "postpack": "clean-package restore"
   },
   "dependencies": {
-    "@nextui-org/shared-utils": "workspace:*"
+    "@nextui-org/shared-utils": "2.2.0"
   },
   "peerDependencies": {
     "react": ">=18"

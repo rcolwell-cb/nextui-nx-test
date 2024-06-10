@@ -1,3 +1,73 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- plop configured, new structure on its way
+
+- switch default validationBehavior to aria and allow switching via props
+
+- **root:** structure improvements, initial build working
+
+- **calendar:** initial structure
+
+- **test:** react hook form tests & stories
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- isReadOnly in Autocomplete
+
+- revise shouldCloseOnInteractOutside for FreeSoloPopover
+
+- popover-based focus behaviour
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **autocomplete:** endContent prop
+
+- **components:** autocomplete, tabIndex is not passed on input
+
+- **autocomplete:** support isReadOnly for dynamic collections in Autocomplete
+
+- **autocomplete:** empty items with allowCustomValue
+
+- **autocomplete:** incorrect prop name in getEmptyPopoverProps
+
+- **use-autocomplete:** overwrite `onKeyDown` to prevent meaningless error msg
+
+- **component:** update type definition to prevent primitive values as items
+
+- **system:** listbox href issue (experimental)
+
+- **autocomplete:** maximum update depth exceeded in autocomplete
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/use-safe-layout-effect to 2.2.0
+- Updated @nextui-org/use-infinite-scroll to 2.3.0
+- Updated @nextui-org/stories-utils to 2.2.0
+- Updated @nextui-org/shared-icons to 2.2.0
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/use-aria-button to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- black197
+- Frozen FIsh
+- HaRuki
+- Junior Garcia
+- Ryo Matsukawa
+- աӄա
+
 # @nextui-org/autocomplete
 
 ## 2.1.1

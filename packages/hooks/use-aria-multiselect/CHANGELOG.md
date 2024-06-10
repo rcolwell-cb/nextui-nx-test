@@ -1,3 +1,41 @@
+## 2.4.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- switch default validationBehavior to aria and allow switching via props
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- avoid `src` in import path
+
+- add peer dependencies
+
+- plop template error
+
+- won't display warning in when placeholder
+
+- selectedKeys are not present in the collection warning in async case
+
+- **hooks:** handle numeric selectedKeys in Select
+
+- **select:** onSelectionChange can handle number
+
+- **system:** listbox href issue (experimental)
+
+
+### ❤️  Thank You
+
+- Chongyi Zheng
+- Frozen FIsh
+- Junior Garcia
+- Ryo Matsukawa
+- Sung Ye In
+- աӄա
+
 # @nextui-org/use-aria-multiselect
 
 ## 2.2.1

@@ -1,3 +1,29 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **hooks:** incorrect attribute names in clearOverflow
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-utils to 2.2.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/use-data-scroll-overflow
 
 ## 2.1.4

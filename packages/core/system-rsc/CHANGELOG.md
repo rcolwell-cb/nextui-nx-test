@@ -1,3 +1,45 @@
+## 2.3.0 (2024-06-10)
+
+
+### 🚀 Features
+
+- **calendar:** initial structure
+
+
+### 🩹 Fixes
+
+- plop template error
+
+- **core:** extend variants function, destructuring order changed
+
+- **root:** peer dependecies update only when out of range
+
+- **core:** update peer dependencies for several packages
+
+- **system:** extend variants fuction adapted
+
+- **system:** add "size" prop to HTMLNextUIProps
+
+- **popover:** unexpected props on a DOM element
+
+- **core:** named exports and client directive
+
+- **core:** incorrect tailwind classnames
+
+
+### 🧱 Updated Dependencies
+
+- Updated @nextui-org/shared-utils to 2.2.0
+- Updated @nextui-org/react-utils to 2.2.0
+- Updated @nextui-org/theme to 2.4.0
+
+
+### ❤️  Thank You
+
+- Frozen FIsh
+- Junior Garcia
+- աӄա
+
 # @nextui-org/system-rsc
 
 ## 2.1.2
